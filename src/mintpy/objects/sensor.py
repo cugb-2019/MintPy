@@ -458,7 +458,7 @@ SENSOR_DICT = {
     'ers'   : ERS,
     'env'   : ENV,
     'sen'   : SEN,
-    'rsat2' : RSAT2,
+    'rs2' : RSAT2,
     # L-band
     'jers'  : JERS,
     'alos'  : ALOS,
